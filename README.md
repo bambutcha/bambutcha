@@ -1,8 +1,4 @@
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
-</div>
+<img src="https://github.com/bambutcha/bambutcha/blob/main/header.png" alt="banner">
 
 <div id="badges" align="center">
   <a href="https://vk.com/denandyou">
@@ -20,10 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=bambutcha&style=flat-circle&color=blue" alt=""/>
 </div>
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-</h1>
 
 ---
 
