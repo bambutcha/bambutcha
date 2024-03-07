@@ -1,8 +1,20 @@
 <img src="https://github.com/bambutcha/bambutcha/blob/main/header.png" alt="banner">
 
 
+<div id="badges" align="center">
+  <a href="https://vk.com/denandyou">
+    <img src="https://img.shields.io/badge/Vkontakte-blue?logo=VK&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCu2JkadXQ_2BM5_JAjIJzvA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://t.me/Alwaysxdroll">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-<div id="viers" align="center">
+
+<div id="viers" align="right">
   <img src="https://komarev.com/ghpvc/?username=bambutcha&style=flat-circle&color=blue" alt=""/>
 </div>
 
@@ -38,19 +50,7 @@
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bambutcha&theme=shades-of-purple&border_radius=6&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambutcha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :eyes: Follow me :
-
-<div id="badges" align="">
-  <a href="https://vk.com/denandyou">
-    <img src="https://img.shields.io/badge/Vkontakte-blue?logo=VK&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCu2JkadXQ_2BM5_JAjIJzvA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://t.me/Alwaysxdroll">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
