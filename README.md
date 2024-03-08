@@ -15,7 +15,7 @@
 
 
 <div id="viers" align="right">
-  <img src="https://komarev.com/ghpvc/?username=bambutcha&style=flat-circle&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=bambutcha&style=flat-circle&color=red" alt=""/>
 </div>
 
 
