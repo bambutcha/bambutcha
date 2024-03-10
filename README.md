@@ -63,8 +63,9 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/bambutcha/bambutcha/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img src="https://raw.githubusercontent.com/bambutcha/bambutcha/output/snake.svg" alt="Snake animation" />
+</div>
 ###
