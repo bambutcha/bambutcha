@@ -3,16 +3,16 @@
 
 <div id="badges" align="center">
   <a href="https://vk.com/denandyou">
-    <img src="https://img.shields.io/badge/Vkontakte-0077B5?logo=VK&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Vkontakte-0077B5?logo=VK&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   <a href="https://www.youtube.com/channel/UCu2JkadXQ_2BM5_JAjIJzvA">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="Youtube Badge"/>
   </a>
   <a href="https://t.me/Alwaysxdroll">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="Telegram Badge"/>
   </a>
   <a href="mailto:stringdeity@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Badge"/>
   </a>
   
 </div>
@@ -71,11 +71,3 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bambutcha/bambutcha/output/snake.svg" alt="Snake animation" />
-
-###
