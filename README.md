@@ -56,13 +56,13 @@
 ## :fire: My Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bambutcha&show_icons=true&theme=dracula&border_radius=20" height="190" alt="languages graph"  />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=bambutcha&theme=dracula&border_radius=20&mode=weekly&hide_border=false" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bambutcha&show_icons=true&theme=dracula&border_radius=20" height="185" alt="languages graph"  />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=bambutcha&theme=dracula&border_radius=20&mode=weekly&hide_border=false" height="155" alt="stats graph"  />
 </div>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bambutcha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&border_radius=20" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bambutcha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&border_radius=20" height="170" alt="stats graph"  />
 </div>
 
 ###
