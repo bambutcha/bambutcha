@@ -53,14 +53,16 @@
 
 ---
 
-### :fire: My Stats :
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bambutcha&show_icons=true&theme=dracula" height="180" alt="stats graph"  />
-</div>
+## :fire: My Stats :
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=bambutcha&theme=dracula&border_radius=5&mode=weekly&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bambutcha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bambutcha&show_icons=true&theme=dracula&border_radius=20" height="200" alt="languages graph"  />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=bambutcha&theme=dracula&border_radius=20&mode=weekly&hide_border=false" height="170" alt="stats graph"  />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bambutcha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&border_radius=20" height="185" alt="stats graph"  />
 </div>
 
 ###
