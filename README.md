@@ -53,7 +53,7 @@
 
 ---
 
-## :fire: My Stats :
+## :fire: My Stats : 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bambutcha&show_icons=true&theme=dracula&border_radius=20" height="185" alt="languages graph"  />
