@@ -1,7 +1,7 @@
 <img src="https://github.com/bambutcha/bambutcha/blob/main/header.png" alt="banner">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=18&pause=1000&color=7145B9&width=435&lines=Hi%2C+everyone!+I%E2%80%99m+bambutcha." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=24&pause=1000&color=7145B9&width=435&lines=Hi%2C+everyone!+I%E2%80%99m+bambutcha." alt="Typing SVG" />
 </a>
 
 <div id="badges" align="center">
