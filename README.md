@@ -1,8 +1,10 @@
 <img src="https://github.com/bambutcha/bambutcha/blob/main/header.png" alt="banner">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=24&pause=1000&color=7145B9&width=435&lines=Hi%2C+everyone!+I%E2%80%99m+bambutcha." alt="Typing SVG" />
-</a>
+<div align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=24&pause=1000&color=7145B9&width=435&lines=Hi%2C+everyone!+I%E2%80%99m+bambutcha." alt="Typing SVG" />
+  </a>
+</div>
 
 <div id="badges" align="center">
   <a href="https://vk.com/denandyou">
@@ -31,8 +33,9 @@
 ## :man_technologist: About Me :
 - I am a beginner Web-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> from Russia.
 - Student of the Southern Federal University in Taganrog
-- Participated and won in hackathons
-- In my free time I study Back-end
+- Participated and won in IT events
+- In my free time I study Full-stack development and Design.
+- The most preferred vector of development is back end.
 
 ---
 
@@ -51,7 +54,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ---
-
+<!--
 ### :hammer_and_wrench: Tools :
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -59,9 +62,10 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=white&color=black&labelColor=darkorchid)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=white&color=black&labelColor=darkorchid)```
 
 ---
+-->
 
 ## :fire: My Stats : 
 
