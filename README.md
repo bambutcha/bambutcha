@@ -19,68 +19,61 @@
   <a href="mailto:stringdeity@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Badge"/>
   </a>
-  
 </div>
-
 
 <div id="viers" align="right">
   <img src="https://komarev.com/ghpvc/?username=bambutcha&style=flat-circle&color=red" alt=""/>
 </div>
 
+<details align="left">
+  <summary><h2><b>👨‍💻 About Me</b></h2></summary>
+  <p>
+    <ul>
+      <li>🌍 I am a beginner Web-Developer from Russia.</li>
+      <li>🎓 Student of the Southern Federal University in Taganrog.</li>
+      <li>🏆 Participated and won in IT events.</li>
+      <li>💻 In my free time, I study Full-stack development and Design.</li>
+      <li>🚀 The most preferred vector of development is back end.</li>
+    </ul>
+  </p>
+</details>
 
----
+<details align="left">
+  <summary><h2><b>📚 My Stack</b></h2></summary>
+  <p>
+    <h3>🖥️ Languages</h3>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="C">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="C++">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" alt="PHP">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg" alt="Golang">
+    <h3>🔧 Frameworks / Tools</h3>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" alt="Docker">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" alt="React">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" alt="PostgreSQL">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" alt="MySQL">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg" alt="Bootstrap">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" alt="Linux">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" alt="Windows">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg" alt="Photoshop">
+  </p>
+</details>
 
-## :man_technologist: About Me :
-- I am a beginner Web-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> from Russia.
-- Student of the Southern Federal University in Taganrog
-- Participated and won in IT events
-- In my free time I study Full-stack development and Design.
-- The most preferred vector of development is back end.
+<details align="left">
+  <summary><h2><b>🔥 My Stats</b></h2></summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=bambutcha&show_icons=true&theme=dracula&border_radius=20" height="185" alt="languages graph" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=bambutcha&theme=dracula&border_radius=20&mode=weekly&hide_border=false" height="155" alt="stats graph" />
+  </div>
 
----
-
-### :desktop_computer: My stack :
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
----
-<!--
-### :hammer_and_wrench: Tools :
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=white&color=black&labelColor=darkorchid)```
-
----
--->
-
-## :fire: My Stats : 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bambutcha&show_icons=true&theme=dracula&border_radius=20" height="185" alt="languages graph"  />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=bambutcha&theme=dracula&border_radius=20&mode=weekly&hide_border=false" height="155" alt="stats graph"  />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bambutcha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&border_radius=20" height="170" alt="stats graph"  />
-</div>
-
-###
-
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bambutcha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&border_radius=20" height="170" alt="stats graph" />
+  </div>
+</details>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
