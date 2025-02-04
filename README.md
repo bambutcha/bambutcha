@@ -25,6 +25,8 @@
   <img src="https://komarev.com/ghpvc/?username=bambutcha&style=flat-circle&color=red" alt=""/>
 </div>
 
+---
+
 <details align="left">
   <summary><h2><b>👨‍💻 About Me</b></h2></summary>
   <p>
