@@ -21,8 +21,10 @@
   </a>
 </div>
 
+<br>
+
 <div id="viers" align="right">
-  <img src="https://komarev.com/ghpvc/?username=bambutcha&style=flat-circle&color=red" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=bambutcha&style=for-the-badge&color=red" alt=""/>
 </div>
 
 ---
