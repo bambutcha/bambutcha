@@ -54,12 +54,18 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" alt="PHP">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg" alt="Golang">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" alt="Node.js">
+
     <h3>🔧 Frameworks / Tools</h3>
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" alt="Docker">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" alt="React">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx1.svg" alt="nginx">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" alt="Express">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg" alt="Fast-api">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" alt="PostgreSQL">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" alt="MySQL">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg" alt"SQLite">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg" alt="Bootstrap">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" alt="Linux">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" alt="Windows">
