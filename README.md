@@ -184,12 +184,6 @@
     </tr>
   </table>
   
-  <h3 align="center">📚 Currently Reading</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/📖-Effective%20Go-CA5F81?style=for-the-badge&logo=go&logoColor=white" alt="Effective Go"/>
-    <img src="https://img.shields.io/badge/📖-Go%20in%20Action-7145B9?style=for-the-badge&logo=go&logoColor=white" alt="Go in Action"/>
-    <img src="https://img.shields.io/badge/📖-Concurrency%20in%20Go-CA5F81?style=for-the-badge&logo=go&logoColor=white" alt="Concurrency in Go"/>
-  </div>
 </details>
 
 <!-- Epic GitHub Stats Section -->
