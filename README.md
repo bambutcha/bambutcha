@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td>🎓</td>
-      <td><strong>Education:</strong> Computer Science Student at SFU</td>
+      <td><strong>Education:</strong> Software engineering Student at SFEDU</td>
     </tr>
     <tr>
       <td>🏆</td>
