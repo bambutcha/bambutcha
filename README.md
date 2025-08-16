@@ -68,6 +68,10 @@
   <br>
   <table align="center">
     <tr>
+        <td>👤</td>
+        <td><strong>Name:</strong> Daniil Yagolnik</td>
+    </tr>
+    <tr>
       <td>🌍</td>
       <td><strong>Location:</strong> Taganrog, Russia | Southern Federal University</td>
     </tr>
