@@ -14,8 +14,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/📍-Taganrog%2C%20Russia%20%7C%20SFU-CA5F81?style=for-the-badge&logo=map-pin&logoColor=white&labelColor=000" alt="Location"/>
   <img src="https://img.shields.io/badge/🎓-Southern%20Federal%20University-7145B9?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=000" alt="Student"/>
-  <img src="https://img.shields.io/badge/💼-Backend%20Focus-CA5F81?style=for-the-badge&logo=server&logoColor=white&labelColor=000" alt="Backend Focus"/>
-  <img src="https://img.shields.io/badge/💰-Commercial%20Experience-7145B9?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=000" alt="Commercial Experience"/>
 </div>
 
 <br>
