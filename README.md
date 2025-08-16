@@ -229,7 +229,7 @@
 -->
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>👻 My Contributions 👻</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bambutcha/bambutcha/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bambutcha/bambutcha/output/pacman-contribution-graph.svg">
