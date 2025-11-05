@@ -135,7 +135,7 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" alt="PostgreSQL">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" alt="MySQL">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg" alt="SQLite">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redis/redis1.svg" alt="Redis">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   </p>
 
   <h3>🔧 DevOps & Tools</h3>
