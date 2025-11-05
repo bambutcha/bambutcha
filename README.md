@@ -127,6 +127,7 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" alt="PHP">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="C++">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="C">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Solidity/solidity1.svg" alt="Solidity">
   </p>
 
   <h3>🗄️ Databases</h3>
