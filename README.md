@@ -1,246 +1,344 @@
-<!-- Animated Header -->
+<!-- HERO SECTION -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&colorFrom=CA5F81&colorTo=7145B9&height=180&section=header&text=Daniil%20Yagolnik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20SFEDU%20Student%20%7C%20Go%20Enthusiast&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=CA5F81&text=DANIIL%20YAGOLNIK&height=150&fontSize=60&desc=Full-Stack%20Developer%20•%20System%20Architect&descAlignY=75&descAlign=50&animation=fadeIn&fontAlignY=45" width="100%" />
 </div>
 
-<!-- Matrix Style Typing Effect -->
-<div align="center"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=24&pause=1000&color=CA5F81&width=435&lines=Hi%2C+everyone!+I%E2%80%99m+bambutcha.;Backend+Developer+Student;Ready+for+new+opportunities!" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- Status Badges -->
+<!-- DYNAMIC TAGLINE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/📍-Taganrog%2C%20Russia%20%7C%20SFEDU-CA5F81?style=for-the-badge&logo=map-pin&logoColor=white&labelColor=000" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎓-Southern%20Federal%20University-7145B9?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=000" alt="Student"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=CA5F81&center=true&vCenter=true&width=650&lines=Clean+code.+Scalable+systems.+Zero+downtime.;Building+production-ready+microservices;2%2B+years+shipping+highload+systems;5x+Hackathon+Winner+•+Agency+Founder" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- Social Media with Original Colors -->
-<div id="badges" align="center">
-  <a href="https://vk.com/denandyou">
-    <img src="https://img.shields.io/badge/Vkontakte-0077B5?logo=VK&logoColor=white&style=for-the-badge" height="40"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCu2JkadXQ_2BM5_JAjIJzvA">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="Youtube Badge"/>
-  </a>
-  <a href="https://t.me/Alwaysxdroll">
-    <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="Telegram Badge"/>
-  </a>
-  <a href="mailto:stringdeity@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail Badge"/>
-  </a>
-</div>
-
-<br>
-
-<!-- Animated Visitor Counter -->
+<!-- VISITOR COUNTER & SOCIAL PROOF -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bambutcha&style=for-the-badge&color=CA5F81&animated=true" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=bambutcha&style=for-the-badge&color=CA5F81&label=Profile+Views" alt=""/>
   <img src="https://img.shields.io/github/followers/bambutcha?style=for-the-badge&color=7145B9&labelColor=000" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-CA5F81?style=for-the-badge&labelColor=000" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Hackathons-5%20Wins-7145B9?style=for-the-badge&labelColor=000" alt="Hackathons"/>
 </div>
 
-<!-- Animated Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=divider"/>
+<br>
 
-<!-- Professional Banner -->
+<!-- PROFESSIONAL SUMMARY -->
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### About Me
+
+**Founder of [Chelaran](https://chelaran.ru)** — Full-cycle digital agency specializing in web development, Telegram bots, CRM systems, and business automation. From MVP to production in 2-4 weeks.
+
+Backend developer with expertise in **Go** and **Python**, who has skills in frontend development, building scalable distributed systems and high-load applications. Experience integrating AI/ML models into production, creating microservices architectures, and optimizing system performance.
+
+**Southern Federal University** • Software Engineering • 2024
+
+</td>
+<td width="40%" valign="top">
+
+### Quick Facts
+
+```yaml
+location: Taganrog, Russia
+role: Full-Stack Developer
+focus: Go & Python
+agency: Chelaran Digital
+experience: 2+ years
+hackathons: 5 victories
+philosophy: Clean Architecture
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- WHAT I BUILD -->
 <div align="center">
-  <h1>💼 Seeking Backend Developer Role</h1>
-  <p><i>Specializing in Go & Scalable Systems | Clean Code Enthusiast | Commercial Project Experience</i></p>
+  
+### 🛠️ What I Build
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=divider"/>
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**Microservices**
+<br><sub>Scalable distributed systems with clean architecture</sub>
+
+</td>
+<td align="center" width="25%">
+
+**REST APIs**
+<br><sub>High-performance backends with proper design</sub>
+
+</td>
+<td align="center" width="25%">
+
+**AI Integration**
+<br><sub>ML models in production environments</sub>
+
+</td>
+<td align="center" width="25%">
+
+**Full-Stack Apps**
+<br><sub>From database to pixel-perfect UI</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-<!-- Random Dev Quote -->
+<!-- TECH STACK VISUALIZATION -->
+<div align="center">
+  <h2>Technology Stack</h2>
+</div>
+
+### Backend & Systems
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=go" width="55" height="55" />
+<br><b>Go</b>
+</td>
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+<br><b>Python</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" />
+<br><b>FastAPI</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" />
+<br><b>PostgreSQL</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55" />
+<br><b>SQLite</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=redis" width="55" height="55" />
+<br><b>Redis</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" />
+<br><b>MongoDB</b>
+</td>
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+<br><b>MySQL</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=kafka" width="55" height="55" />
+<br><b>Kafka</b>
+</td>
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
+<br><b>C++</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+### Frontend & UI
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ts" width="55" height="55" />
+<br><b>TypeScript</b>
+</td>
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+<br><b>React</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" />
+<br><b>Next.js</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
+<br><b>Tailwind</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="55" height="55" />
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="55" height="55" />
+<br><b>HTML5</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="55" height="55" />
+<br><b>CSS3</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+### Tools
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+<br><b>Docker</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
+<br><b>Git</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="55" height="55" />
+<br><b>GitHub</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=gitlab" width="55" height="55" />
+<br><b>GitLab</b>
+</td>
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="55" height="55" />
+<br><b>Nginx</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=linux" width="55" height="55" />
+<br><b>Linux</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postman" width="55" height="55" />
+<br><b>Postman</b>
+</td>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
+<br><b>Minio</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<!-- EXPERIENCE SHOWCASE -->
+<div align="center">
+  <h2>Professional Experience</h2>
+</div>
+
+<table>
+<tr><th>Role</th><th>Organization</th><th>Highlights</th></tr>
+<tr>
+<td><b>Founder & Lead Developer</b></td>
+<td>🚀 Chelaran Digital</td>
+<td>
+
+• Full-cycle digital agency<br>
+• Web apps, bots, integrations<br>
+• 2-4 week delivery pipeline
+
+</td>
+</tr>
+<tr>
+<td><b>Backend Developer</b></td>
+<td>💼 Freelance / Commercial</td>
+<td>
+
+• Microservices architecture<br>
+• High-load systems (Go/Python)<br>
+• AI/ML integrations in production
+
+</td>
+</tr>
+<tr>
+<td><b>5x Winner</b></td>
+<td>🏆 Hackathons</td>
+<td>
+
+• Software & Hardware tracks<br>
+• Rapid prototyping<br>
+• Team leadership
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<!-- CURRENT FOCUS -->
+<div align="center">
+  <h2>Current Focus</h2>
+  
+  <table>
+  <tr>
+  <td align="center">
+  <img src="https://img.shields.io/badge/Building-High_Load_Systems-CA5F81?style=for-the-badge&logo=go&logoColor=white&labelColor=000"/>
+  </td>
+  <td align="center">
+  <img src="https://img.shields.io/badge/Scaling-Chelaran_Agency-7145B9?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000"/>
+  </td>
+  <td align="center">
+  <img src="https://img.shields.io/badge/Mastering-Full_Cycle_Dev-CA5F81?style=for-the-badge&logo=react&logoColor=white&labelColor=000"/>
+  </td>
+  </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- CORE SKILLS -->
+<div align="center">
+
+### 🎯 Core Competencies
+
+`Microservices Architecture` • `REST API Design` • `Database Optimization` • `AI/ML Integration`  
+`Clean Architecture` • `System Design` • `Production Deployment` • `CI/CD Pipelines`
+
+</div>
+
+<br>
+
+---
+
+<!-- DEV QUOTE -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 </div>
 
----
+<br>
 
-<!-- About Me with Icons -->
-<details align="left">
-  <summary><h2><b>👨‍💻 About Me</b></h2></summary>
-  <br>
-  <table align="center">
-    <tr>
-        <td>👤</td>
-        <td><strong>Name:</strong> Daniil Yagolnik</td>
-    </tr>
-    <tr>
-      <td>🌍</td>
-      <td><strong>Location:</strong> Taganrog, Russia | Southern Federal University</td>
-    </tr>
-    <tr>
-      <td>🎓</td>
-      <td><strong>Education:</strong> Software engineering Student at SFEDU</td>
-    </tr>
-    <tr>
-      <td>🏆</td>
-      <td><strong>Achievements:</strong> Multiple IT competition victories</td>
-    </tr>
-    <tr>
-      <td>💰</td>
-      <td><strong>Experience:</strong> Commercial projects & freelance development</td>
-    </tr>
-    <tr>
-      <td>💻</td>
-      <td><strong>Focus:</strong> Backend development with full-stack ambitions</td>
-    </tr>
-    <tr>
-      <td>🚀</td>
-      <td><strong>Current Goal:</strong> Mastering Go for scalable backend systems</td>
-    </tr>
-    <tr>
-      <td>⚡</td>
-      <td><strong>Philosophy:</strong> "Master one language deeply rather than many superficially"</td>
-    </tr>
-    <tr>
-      <td>🎯</td>
-      <td><strong>Future Vision:</strong> Skilled backend engineer → Full-stack developer</td>
-    </tr>
-  </table>
-</details>
-
-<!-- Tech Stack -->
-<details align="left">
-  <summary><h2><b>📚 Technical Skills</b></h2></summary>
-  
-  <h3>🎯 Primary Focus (Go Ecosystem)</h3>
-  <p>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg" alt="Golang">
-    <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin">
-    <img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GORM">
-    <img src="https://img.shields.io/badge/Gorilla%20Mux-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gorilla Mux">
-  </p>
-
-  <h3>🖥️ Languages & Frameworks</h3>
-  <p>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" alt="Node.js">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg" alt="FastAPI">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" alt="PHP">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="C++">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="C">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Solidity/solidity1.svg" alt="Solidity">
-  </p>
-
-  <h3>🗄️ Databases</h3>
-  <p>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" alt="PostgreSQL">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" alt="MySQL">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg" alt="SQLite">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  </p>
-
-  <h3>🔧 DevOps & Tools</h3>
-  <p>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" alt="Docker">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" alt="Linux">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx1.svg" alt="nginx">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  </p>
-
-  <h3>🎨 Frontend (Supporting Skills)</h3>
-  <p>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" alt="React">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg" alt="Bootstrap">
-  </p>
-</details>
-
-<!-- Achievements Section -->
-<details align="left">
-  <summary><h2><b>🏆 Achievements & Milestones</b></h2></summary>
-  
-  <table align="center">
-    <tr>
-      <td>🥇</td>
-      <td><strong>Competition Success:</strong> Multiple victories in IT competitions and hackathons</td>
-    </tr>
-    <tr>
-      <td>💰</td>
-      <td><strong>Commercial Projects:</strong> Real-world development experience with clients</td>
-    </tr>
-    <tr>
-      <td>📚</td>
-      <td><strong>Learning Focus:</strong> Continuously expanding backend development knowledge</td>
-    </tr>
-    <tr>
-      <td>🌱</td>
-      <td><strong>Growth Mindset:</strong> Active in learning modern development practices</td>
-    </tr>
-    <tr>
-      <td>💡</td>
-      <td><strong>Problem Solving:</strong> Analytical and solution-oriented approach</td>
-    </tr>
-    <tr>
-      <td>🤝</td>
-      <td><strong>Collaboration:</strong> Team experience from competitions and projects</td>
-    </tr>
-  </table>
-  
-</details>
-
-<!-- Epic GitHub Stats Section -->
-<details align="left">
-  <summary><h2><b>🔥 GitHub Statistics</b></h2></summary>
-  
-  <!-- Main Stats Grid -->
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bambutcha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20&bg_color=0D1117&title_color=CA5F81&icon_color=7145B9&text_color=C9D1D9&border_color=CA5F81"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bambutcha&theme=tokyonight&background=0D1117&border=CA5F81&stroke=7145B9&ring=CA5F81&fire=CA5F81&currStreakLabel=CA5F81&sideNums=C9D1D9&currStreakNum=CA5F81&dates=8B949E&sideLabels=C9D1D9&border_radius=20"/>
-  </div>
-
-  <!-- Language Stats -->
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bambutcha&layout=compact&langs_count=12&theme=tokyonight&bg_color=0D1117&title_color=CA5F81&text_color=C9D1D9&border_color=7145B9&border_radius=20&exclude_repo=repo1,repo2"/>
-  </div>
-
-  <!-- Activity Graph -->
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bambutcha&custom_title=Contribution%20Activity&bg_color=0d1117&color=CA5F81&line=7145B9&point=CA5F81&area_color=0d1117&area=true&hide_border=true&theme=tokyo-night" alt="GitHub Activity Graph"/>
-  </div>
-
-  <!-- Detailed Stats -->
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bambutcha&theme=tokyonight" alt="Profile Details"/>
-  </div>
-
-  <!-- Trophy Collection -->
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=bambutcha&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-  </div>
-</details>
-
----
-
-<!-- Contribution Snake 
+<!-- CONNECT SECTION -->
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img src="https://raw.githubusercontent.com/bambutcha/bambutcha/output/snake.svg" alt="Snake animation" />
-</div>
--->
-
-<div align="center">
-  <h2>👻 My Contributions 👻</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bambutcha/bambutcha/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bambutcha/bambutcha/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bambutcha/bambutcha/output/pacman-contribution-graph.svg">
-  </picture>
+  <h2>Let's Connect</h2>
+  
+  <a href="https://t.me/Alwaysxdroll">
+    <img src="https://img.shields.io/badge/Telegram-CA5F81?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000"/>
+  </a>
+  <a href="https://chelaran.ru">
+    <img src="https://img.shields.io/badge/Website-CA5F81?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000"/>
+  </a>
 </div>
 
----
+<br>
 
-<!-- Footer with Animation -->
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
