@@ -332,7 +332,7 @@ philosophy: Clean Architecture
     <img src="https://img.shields.io/badge/Telegram-CA5F81?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000"/>
   </a>
   <a href="https://chelaran.ru">
-    <img src="https://img.shields.io/badge/Website-CA5F81?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000"/>
+    <img src="https://img.shields.io/badge/Chelaran-CA5F81?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000"/>
   </a>
 </div>
 
