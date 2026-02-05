@@ -5,7 +5,7 @@
 
 <!-- DYNAMIC TAGLINE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=CA5F81&center=true&vCenter=true&width=650&lines=Clean+code.+Scalable+systems.+Zero+downtime.;Building+production-ready+microservices;2%2B+years+shipping+highload+systems;5x+Hackathon+Winner+•+Agency+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=CA5F81&center=true&vCenter=true&width=650&lines=Clean+code.+Scalable+systems.+Zero+downtime.;Building+production+ready+microservices;2+years+shipping+highload+systems;5x+Hackathon+Winner+Agency+Founder" alt="Typing SVG" />
 </div>
 
 <br>
