@@ -43,7 +43,7 @@ location: Taganrog, Russia
 role: Full-Stack Developer
 focus: Go & Python
 agency: Chelaran Digital
-experience: 2+ years
+experience: 3+ years
 hackathons: 5 victories
 philosophy: Clean Architecture
 ```
