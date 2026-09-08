@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=bambutcha&style=for-the-badge&color=CA5F81&label=Profile+Views" alt=""/>
   <img src="https://img.shields.io/github/followers/bambutcha?style=for-the-badge&color=7145B9&labelColor=000" alt="Followers"/>
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-CA5F81?style=for-the-badge&labelColor=000" alt="Experience"/>
-  <img src="https://img.shields.io/badge/Hackathons-5%20Wins-7145B9?style=for-the-badge&labelColor=000" alt="Hackathons"/>
+  <img src="https://img.shields.io/badge/Hackathons-6%20Wins-7145B9?style=for-the-badge&labelColor=000" alt="Hackathons"/>
 </div>
 
 <br>
@@ -41,10 +41,10 @@ Backend developer with expertise in **Go** and **Python**, who has skills in fro
 ```yaml
 location: Taganrog, Russia
 role: Full-Stack Developer
-focus: Go & Python
+focus: Go
 agency: Chelaran Digital
 experience: 3+ years
-hackathons: 5 victories
+hackathons: 6 victories
 philosophy: Clean Architecture
 ```
 
@@ -107,7 +107,7 @@ philosophy: Clean Architecture
 <tr>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=go" width="55" height="55" />
-<br><b>Go</b>
+<br><b>Golang</b>
 </td>
 <td align="center" width="110">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
@@ -169,6 +169,10 @@ philosophy: Clean Architecture
 <br><b>Next.js</b>
 </td>
 <td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=bun" width="55" height="55" />
+<br><b>Bun</b>
+</td>
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
 <br><b>Tailwind</b>
 </td>
@@ -224,8 +228,20 @@ philosophy: Clean Architecture
 <br><b>Postman</b>
 </td>
 <td align="center" width="110">
-<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
+<img src="https://cdn.simpleicons.org/minio" />
 <br><b>Minio</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=prometheus" width="55" height="55" />
+<br><b>Prometheus</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=grafana" width="55" height="55" />
+<br><b>Grafana</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/caddy" alt="Caddy" width="55" height="55" />
+<br><b>Caddy</b>
 </td>
 </tr>
 </table>
@@ -266,7 +282,7 @@ philosophy: Clean Architecture
 </td>
 </tr>
 <tr>
-<td><b>5x Winner</b></td>
+<td><b>6x Winner</b></td>
 <td>🏆 Hackathons</td>
 <td>
 
