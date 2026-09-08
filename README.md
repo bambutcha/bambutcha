@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bambutcha&style=for-the-badge&color=CA5F81&label=Profile+Views" alt=""/>
   <img src="https://img.shields.io/github/followers/bambutcha?style=for-the-badge&color=7145B9&labelColor=000" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-CA5F81?style=for-the-badge&labelColor=000" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-CA5F81?style=for-the-badge&labelColor=000" alt="Experience"/>
   <img src="https://img.shields.io/badge/Hackathons-6%20Wins-7145B9?style=for-the-badge&labelColor=000" alt="Hackathons"/>
 </div>
 
