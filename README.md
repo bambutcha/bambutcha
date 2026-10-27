@@ -105,45 +105,55 @@ philosophy: Clean Architecture
 
 <table>
 <tr>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/GoLang.svg" width="48" height="48" alt="Golang" />
-<br><b>Golang</b>
+<br/>
+<b>Golang</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Python-Dark.svg" width="48" height="48" alt="Python" />
-<br><b>Python</b>
+<br/>
+<b>Python</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/FastAPI.svg" width="48" height="48" alt="FastAPI" />
-<br><b>FastAPI</b>
+<br/>
+<b>FastAPI</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" />
-<br><b>PostgreSQL</b>
+<br/>
+<b>PostgreSQL</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/SQLite.svg" width="48" height="48" alt="SQLite" />
-<br><b>SQLite</b>
+<br/>
+<b>SQLite</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Redis-Dark.svg" width="48" height="48" alt="Redis" />
-<br><b>Redis</b>
+<br/>
+<b>Redis</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MongoDB.svg" width="48" height="48" alt="MongoDB" />
-<br><b>MongoDB</b>
+<br/>
+<b>MongoDB</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MySQL-Dark.svg" width="48" height="48" alt="MySQL" />
-<br><b>MySQL</b>
+<br/>
+<b>MySQL</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Kafka.svg" width="48" height="48" alt="Kafka" />
-<br><b>Kafka</b>
+<br/>
+<b>Kafka</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CPP.svg" width="48" height="48" alt="C++" />
-<br><b>C++</b>
+<br/>
+<b>C++</b>
 </td>
 </tr>
 </table>
@@ -156,37 +166,45 @@ philosophy: Clean Architecture
 
 <table>
 <tr>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/TypeScript.svg" width="48" height="48" alt="TypeScript" />
-<br><b>TypeScript</b>
+<br/>
+<b>TypeScript</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/React-Dark.svg" width="48" height="48" alt="React" />
-<br><b>React</b>
+<br/>
+<b>React</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/NextJS-Dark.svg" width="48" height="48" alt="Next.js" />
-<br><b>Next.js</b>
+<br/>
+<b>Next.js</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Bun-Dark.svg" width="48" height="48" alt="Bun" />
-<br><b>Bun</b>
+<br/>
+<b>Bun</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind" />
-<br><b>Tailwind</b>
+<br/>
+<b>Tailwind</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" />
-<br><b>JavaScript</b>
+<br/>
+<b>JavaScript</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/HTML.svg" width="48" height="48" alt="HTML5" />
-<br><b>HTML5</b>
+<br/>
+<b>HTML5</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CSS.svg" width="48" height="48" alt="CSS3" />
-<br><b>CSS3</b>
+<br/>
+<b>CSS3</b>
 </td>
 </tr>
 </table>
@@ -199,49 +217,60 @@ philosophy: Clean Architecture
 
 <table>
 <tr>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Docker.svg" width="48" height="48" alt="Docker" />
-<br><b>Docker</b>
+<br/>
+<b>Docker</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Git.svg" width="48" height="48" alt="Git" />
-<br><b>Git</b>
+<br/>
+<b>Git</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" />
-<br><b>GitHub</b>
+<br/>
+<b>GitHub</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/GitLab-Dark.svg" width="48" height="48" alt="GitLab" />
-<br><b>GitLab</b>
+<br/>
+<b>GitLab</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Nginx.svg" width="48" height="48" alt="Nginx" />
-<br><b>Nginx</b>
+<br/>
+<b>Nginx</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Linux-Dark.svg" width="48" height="48" alt="Linux" />
-<br><b>Linux</b>
+<br/>
+<b>Linux</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Postman.svg" width="48" height="48" alt="Postman" />
-<br><b>Postman</b>
+<br/>
+<b>Postman</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="./icons/Minio.svg" width="48" height="48" alt="Minio" />
-<br><b>Minio</b>
+<br/>
+<b>Minio</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Prometheus.svg" width="48" height="48" alt="Prometheus" />
-<br><b>Prometheus</b>
+<br/>
+<b>Prometheus</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Grafana-Dark.svg" width="48" height="48" alt="Grafana" />
-<br><b>Grafana</b>
+<br/>
+<b>Grafana</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="./icons/Caddy.svg" width="48" height="48" alt="Caddy" />
-<br><b>Caddy</b>
+<br/>
+<b>Caddy</b>
 </td>
 </tr>
 </table>
@@ -254,21 +283,25 @@ philosophy: Clean Architecture
 
 <table>
 <tr>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/ScikitLearn-Dark.svg" width="48" height="48" alt="scikit-learn" />
-<br><b>scikit-learn</b>
+<br/>
+<b>scikit-learn</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="./icons/Jupyter.svg" width="48" height="48" alt="Jupyter" />
-<br><b>Jupyter</b>
+<br/>
+<b>Jupyter</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="./icons/Pandas.svg" width="48" height="48" alt="pandas" />
-<br><b>pandas</b>
+<br/>
+<b>pandas</b>
 </td>
-<td align="center" width="110">
+<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
 <img src="./icons/NumPy.svg" width="48" height="48" alt="NumPy" />
-<br><b>NumPy</b>
+<br/>
+<b>NumPy</b>
 </td>
 </tr>
 </table>
