@@ -297,51 +297,6 @@ hackathons: 6 wins
 
 ---
 
-<!-- EXPERIENCE SHOWCASE -->
-<div align="center">
-  <h2>Professional Experience</h2>
-</div>
-
-<table>
-<tr><th>Role</th><th>Organization</th><th>Highlights</th></tr>
-<tr>
-<td><b>Founder</b> <sub>(past)</sub></td>
-<td>Chelaran</td>
-<td>
-
-• Small studio: websites, Telegram bots, CRM<br>
-• Not what I focus on now
-
-</td>
-</tr>
-<tr>
-<td><b>Backend Developer</b></td>
-<td>💼 Freelance / Commercial</td>
-<td>
-
-• Microservices architecture<br>
-• High-load systems (Go/Python)<br>
-• AI/ML integrations in production
-
-</td>
-</tr>
-<tr>
-<td><b>6x Winner</b></td>
-<td>🏆 Hackathons</td>
-<td>
-
-• Software & Hardware tracks<br>
-• Rapid prototyping<br>
-• Team leadership
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
 <!-- CURRENT FOCUS -->
 <div align="center">
   <h2>Current Focus</h2>
