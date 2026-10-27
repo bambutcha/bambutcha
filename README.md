@@ -1,11 +1,11 @@
 <!-- HERO SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=CA5F81&text=DANIIL%20YAGOLNIK&height=150&fontSize=60&desc=Backend%20%26%20Full-Stack%20%E2%80%A2%20Go%20%2F%20Python&descAlignY=75&descAlign=50&animation=fadeIn&fontAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=CA5F81&text=DANIIL%20YAGOLNIK&height=150&fontSize=60&desc=Full-Stack%20Developer%20•%20Go%20and%20Python&descAlignY=75&descAlign=50&animation=fadeIn&fontAlignY=45" width="100%" />
 </div>
 
 <!-- DYNAMIC TAGLINE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=CA5F81&center=true&vCenter=true&width=650&lines=Backend+and+full-stack.+Go+and+Python.;Services,+APIs,+and+product+systems.;Sfedu+Software+Engineering;Hackathon+winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=CA5F81&center=true&vCenter=true&width=650&lines=Backend+and+full-stack;Go+and+Python;Hackathon+winner" alt="Typing SVG" />
 </div>
 
 <br>
