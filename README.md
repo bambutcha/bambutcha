@@ -106,43 +106,43 @@ philosophy: Clean Architecture
 <table>
 <tr>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=go" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/GoLang.svg" width="48" height="48" alt="Golang" />
 <br><b>Golang</b>
 </td>
 <td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Python-Dark.svg" width="48" height="48" alt="Python" />
 <br><b>Python</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/FastAPI.svg" width="48" height="48" alt="FastAPI" />
 <br><b>FastAPI</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" />
 <br><b>PostgreSQL</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/SQLite.svg" width="48" height="48" alt="SQLite" />
 <br><b>SQLite</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=redis" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Redis-Dark.svg" width="48" height="48" alt="Redis" />
 <br><b>Redis</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MongoDB.svg" width="48" height="48" alt="MongoDB" />
 <br><b>MongoDB</b>
 </td>
 <td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MySQL-Dark.svg" width="48" height="48" alt="MySQL" />
 <br><b>MySQL</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=kafka" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Kafka.svg" width="48" height="48" alt="Kafka" />
 <br><b>Kafka</b>
 </td>
 <td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CPP.svg" width="48" height="48" alt="C++" />
 <br><b>C++</b>
 </td>
 </tr>
@@ -157,35 +157,35 @@ philosophy: Clean Architecture
 <table>
 <tr>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=ts" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/TypeScript.svg" width="48" height="48" alt="TypeScript" />
 <br><b>TypeScript</b>
 </td>
 <td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/React-Dark.svg" width="48" height="48" alt="React" />
 <br><b>React</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/NextJS-Dark.svg" width="48" height="48" alt="Next.js" />
 <br><b>Next.js</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=bun" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Bun-Dark.svg" width="48" height="48" alt="Bun" />
 <br><b>Bun</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind" />
 <br><b>Tailwind</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" />
 <br><b>JavaScript</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/HTML.svg" width="48" height="48" alt="HTML5" />
 <br><b>HTML5</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=css" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CSS.svg" width="48" height="48" alt="CSS3" />
 <br><b>CSS3</b>
 </td>
 </tr>
@@ -200,47 +200,47 @@ philosophy: Clean Architecture
 <table>
 <tr>
 <td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Docker.svg" width="48" height="48" alt="Docker" />
 <br><b>Docker</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Git.svg" width="48" height="48" alt="Git" />
 <br><b>Git</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=github" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" />
 <br><b>GitHub</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=gitlab" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/GitLab-Dark.svg" width="48" height="48" alt="GitLab" />
 <br><b>GitLab</b>
 </td>
 <td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Nginx.svg" width="48" height="48" alt="Nginx" />
 <br><b>Nginx</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=linux" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Linux-Dark.svg" width="48" height="48" alt="Linux" />
 <br><b>Linux</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=postman" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Postman.svg" width="48" height="48" alt="Postman" />
 <br><b>Postman</b>
 </td>
 <td align="center" width="110">
-<img src="https://cdn.simpleicons.org/minio" width="55" height="55" />
+<img src="./icons/Minio.svg" width="48" height="48" alt="Minio" />
 <br><b>Minio</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=prometheus" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Prometheus.svg" width="48" height="48" alt="Prometheus" />
 <br><b>Prometheus</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=grafana" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Grafana-Dark.svg" width="48" height="48" alt="Grafana" />
 <br><b>Grafana</b>
 </td>
 <td align="center" width="110">
-<img src="https://cdn.simpleicons.org/caddy" alt="Caddy" width="55" height="55" />
+<img src="./icons/Caddy.svg" width="48" height="48" alt="Caddy" />
 <br><b>Caddy</b>
 </td>
 </tr>
@@ -255,8 +255,20 @@ philosophy: Clean Architecture
 <table>
 <tr>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/ScikitLearn-Dark.svg" width="48" height="48" alt="scikit-learn" />
 <br><b>scikit-learn</b>
+</td>
+<td align="center" width="110">
+<img src="./icons/Jupyter.svg" width="48" height="48" alt="Jupyter" />
+<br><b>Jupyter</b>
+</td>
+<td align="center" width="110">
+<img src="./icons/Pandas.svg" width="48" height="48" alt="pandas" />
+<br><b>pandas</b>
+</td>
+<td align="center" width="110">
+<img src="./icons/NumPy.svg" width="48" height="48" alt="NumPy" />
+<br><b>NumPy</b>
 </td>
 </tr>
 </table>
