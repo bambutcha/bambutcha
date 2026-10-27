@@ -279,54 +279,6 @@ philosophy: Clean Architecture
 
 ---
 
-<!-- FEATURED PROJECTS -->
-<div align="center">
-  <h2>Featured Projects</h2>
-</div>
-
-<table>
-<tr>
-<td width="70%" valign="top">
-
-### 🏠 [House Price Prediction](https://github.com/bambutcha/house-price-prediction)
-
-My first classical ML project — Ames housing regression.
-
-- **Stack:** Python, pandas, scikit-learn, Jupyter  
-- **Model:** `LabelEncoder` + `RandomForestRegressor`  
-- **Metric:** validation RMSLE ≈ **0.136**  
-- Feature engineering, log-target, hyperparameter search
-
-<p>
-  <a href="https://github.com/bambutcha/house-price-prediction">
-    <img src="https://img.shields.io/badge/Repo-7145B9?style=for-the-badge&logo=github&logoColor=white&labelColor=000" alt="Repo"/>
-  </a>
-  <a href="https://github.com/bambutcha/house-price-prediction/blob/master/house_prices_lab.ipynb">
-    <img src="https://img.shields.io/badge/Notebook-CA5F81?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000" alt="Notebook"/>
-  </a>
-  <a href="https://nbviewer.org/github/bambutcha/house-price-prediction/blob/master/house_prices_lab.ipynb">
-    <img src="https://img.shields.io/badge/nbviewer-7145B9?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000" alt="nbviewer"/>
-  </a>
-</p>
-
-</td>
-<td width="30%" valign="top" align="center">
-
-**Highlights**
-
-`Random Forest`  
-`Feature Engineering`  
-`RMSLE`  
-`Jupyter`
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
 <!-- EXPERIENCE SHOWCASE -->
 <div align="center">
   <h2>Professional Experience</h2>
@@ -387,9 +339,6 @@ My first classical ML project — Ames housing regression.
   </td>
   <td align="center">
   <img src="https://img.shields.io/badge/Mastering-Full_Cycle_Dev-CA5F81?style=for-the-badge&logo=react&logoColor=white&labelColor=000"/>
-  </td>
-  <td align="center">
-  <img src="https://img.shields.io/badge/Learning-Classical_ML-7145B9?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000"/>
   </td>
   </tr>
   </table>
