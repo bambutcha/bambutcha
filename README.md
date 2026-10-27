@@ -5,7 +5,7 @@
 
 <!-- DYNAMIC TAGLINE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=CA5F81&center=true&vCenter=true&width=650&lines=Backend+and+full-stack;Go+and+Python;Hackathon+winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=CA5F81&center=true&vCenter=true&width=650&lines=Backend+and+full-stack;Go+and+Python;Hackathons+winner" alt="Typing SVG" />
 </div>
 
 <br>
@@ -23,7 +23,7 @@
 <!-- PROFESSIONAL SUMMARY -->
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="70%" valign="top">
 
 ### About Me
 
@@ -36,7 +36,7 @@ Right now the main line is still backend and full-stack work. ML is something I 
 **Southern Federal University** • Software Engineering • 2024
 
 </td>
-<td width="40%" valign="top">
+<td width="30%" valign="top">
 
 ### Quick Facts
 
