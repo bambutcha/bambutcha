@@ -259,16 +259,16 @@ philosophy: Clean Architecture
 <br><b>scikit-learn</b>
 </td>
 <td align="center" width="110">
-  <img src="https://img.shields.io/badge/Jupyter-CA5F81?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000" alt="Jupyter" height="28" />
-  <br><b>Jupyter</b>
+<img src="https://skillicons.dev/icons?i=jupyter" width="55" height="55" />
+<br><b>Jupyter</b>
 </td>
 <td align="center" width="110">
-  <img src="https://img.shields.io/badge/pandas-7145B9?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000" alt="pandas" height="28" />
-  <br><b>pandas</b>
+<img src="https://skillicons.dev/icons?i=pandas" width="55" height="55" />
+<br><b>pandas</b>
 </td>
 <td align="center" width="110">
-  <img src="https://img.shields.io/badge/NumPy-CA5F81?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000" alt="NumPy" height="28" />
-  <br><b>NumPy</b>
+<img src="https://skillicons.dev/icons?i=numpy" width="55" height="55" />
+<br><b>NumPy</b>
 </td>
 </tr>
 </table>
