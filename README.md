@@ -5,7 +5,7 @@
 
 <!-- DYNAMIC TAGLINE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=CA5F81&center=true&vCenter=true&width=650&lines=Backend+and+full-stack;Go+and+Python;Hackathons+winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=CA5F81&center=true&vCenter=true&width=650&lines=3%2B+years+shipping;6+hackathon+wins;Services+that+stay+up" alt="Typing SVG" />
 </div>
 
 <br>
@@ -42,11 +42,11 @@ Right now the main line is still backend and full-stack work. ML is something I 
 
 ```yaml
 location: Taganrog, Russia
-role: Backend / Full-Stack
-stack: Go, Python
+born: 2006
 education: Sfedu, Software Engineering
-experience: 3+ years
-hackathons: 6 wins
+languages: RU, EN
+open_to: freelance, collab, full-time
+track: product engineering
 ```
 
 </td>
@@ -66,26 +66,26 @@ hackathons: 6 wins
 <tr>
 <td align="center" width="25%">
 
-**Microservices**
-<br><sub>Scalable distributed systems with clean architecture</sub>
+**Services**
+<br><sub>Systems with clear edges</sub>
 
 </td>
 <td align="center" width="25%">
 
-**REST APIs**
-<br><sub>High-performance backends with proper design</sub>
+**APIs**
+<br><sub>Backends teams can rely on</sub>
 
 </td>
 <td align="center" width="25%">
 
 **Integrations**
-<br><sub>Bots, third-party APIs, and product glue</sub>
+<br><sub>Bots, third-party APIs, product glue</sub>
 
 </td>
 <td align="center" width="25%">
 
-**Full-Stack Apps**
-<br><sub>From database to pixel-perfect UI</sub>
+**Products**
+<br><sub>From data to UI when needed</sub>
 
 </td>
 </tr>
@@ -304,13 +304,13 @@ hackathons: 6 wins
   <table>
   <tr>
   <td align="center">
-  <img src="https://img.shields.io/badge/Building-High_Load_Systems-CA5F81?style=for-the-badge&logo=go&logoColor=white&labelColor=000"/>
+  <img src="https://img.shields.io/badge/Building-Reliable_Systems-CA5F81?style=for-the-badge&logo=go&logoColor=white&labelColor=000"/>
   </td>
   <td align="center">
   <img src="https://img.shields.io/badge/Shipping-Product_APIs-7145B9?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000"/>
   </td>
   <td align="center">
-  <img src="https://img.shields.io/badge/Mastering-Full_Cycle_Dev-CA5F81?style=for-the-badge&logo=react&logoColor=white&labelColor=000"/>
+  <img src="https://img.shields.io/badge/Growing-Full_Cycle_Dev-CA5F81?style=for-the-badge&logo=react&logoColor=white&labelColor=000"/>
   </td>
   </tr>
   </table>
@@ -323,8 +323,8 @@ hackathons: 6 wins
 
 ### 🎯 Core Competencies
 
-`Microservices Architecture` • `REST API Design` • `Database Optimization` • `AI/ML Integration`  
-`Clean Architecture` • `System Design` • `Production Deployment` • `CI/CD Pipelines`
+`Microservices Architecture` • `REST API Design` • `Database Optimization` • `System Design`  
+`Clean Architecture` • `Production Deployment` • `CI/CD Pipelines` • `Integrations` • `ML`
 
 </div>
 
