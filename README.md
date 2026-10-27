@@ -110,7 +110,7 @@ philosophy: Clean Architecture
 <br><b>Golang</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=python" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
 <br><b>Python</b>
 </td>
 <td align="center" width="110">
@@ -134,7 +134,7 @@ philosophy: Clean Architecture
 <br><b>MongoDB</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
 <br><b>MySQL</b>
 </td>
 <td align="center" width="110">
@@ -142,7 +142,7 @@ philosophy: Clean Architecture
 <br><b>Kafka</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
 <br><b>C++</b>
 </td>
 </tr>
@@ -161,7 +161,7 @@ philosophy: Clean Architecture
 <br><b>TypeScript</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
 <br><b>React</b>
 </td>
 <td align="center" width="110">
@@ -200,7 +200,7 @@ philosophy: Clean Architecture
 <table>
 <tr>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=docker" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
 <br><b>Docker</b>
 </td>
 <td align="center" width="110">
@@ -216,7 +216,7 @@ philosophy: Clean Architecture
 <br><b>GitLab</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nginx" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="55" height="55" />
 <br><b>Nginx</b>
 </td>
 <td align="center" width="110">
@@ -228,7 +228,7 @@ philosophy: Clean Architecture
 <br><b>Postman</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=minio" width="55" height="55" />
+<img src="https://cdn.simpleicons.org/minio" width="55" height="55" />
 <br><b>Minio</b>
 </td>
 <td align="center" width="110">
@@ -240,7 +240,7 @@ philosophy: Clean Architecture
 <br><b>Grafana</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=caddy" width="55" height="55" />
+<img src="https://cdn.simpleicons.org/caddy" alt="Caddy" width="55" height="55" />
 <br><b>Caddy</b>
 </td>
 </tr>
@@ -257,18 +257,6 @@ philosophy: Clean Architecture
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55" />
 <br><b>scikit-learn</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=jupyter" width="55" height="55" />
-<br><b>Jupyter</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=pandas" width="55" height="55" />
-<br><b>pandas</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=numpy" width="55" height="55" />
-<br><b>NumPy</b>
 </td>
 </tr>
 </table>
