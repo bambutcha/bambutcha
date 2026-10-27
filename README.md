@@ -29,9 +29,11 @@
 
 Backend and full-stack engineer. I build services and APIs in **Go** and **Python** — from product features to systems that have to stay up under load.
 
-I care about clear boundaries, boring reliability, and shipping something people can actually use. **Southern Federal University**, Software Engineering. Hackathon winner.
+I care about clear boundaries, boring reliability, and shipping something people can actually use. Hackathons winner.
 
-Right now the main line is still backend and full-stack work. Applied ML is something I study alongside that, not a separate brand.
+Right now the main line is still backend and full-stack work. ML is something I study alongside that.
+
+**Southern Federal University** • Software Engineering • 2024
 
 </td>
 <td width="40%" valign="top">
