@@ -101,212 +101,196 @@ philosophy: Clean Architecture
 
 ### Backend & Systems
 
-<div align="center">
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/GoLang.svg" width="48" height="48" alt="Golang" />
+<td align="center" valign="top" width="10%">
+<img src="./icons/Golang.png" width="48" height="48" alt="Golang" />
 <br/>
-<b>Golang</b>
+<sub><b>Golang</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Python-Dark.svg" width="48" height="48" alt="Python" />
+<td align="center" valign="top" width="10%">
+<img src="./icons/Python.png" width="48" height="48" alt="Python" />
 <br/>
-<b>Python</b>
+<sub><b>Python</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/FastAPI.svg" width="48" height="48" alt="FastAPI" />
+<td align="center" valign="top" width="10%">
+<img src="./icons/FastAPI.png" width="48" height="48" alt="FastAPI" />
 <br/>
-<b>FastAPI</b>
+<sub><b>FastAPI</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" />
+<td align="center" valign="top" width="10%">
+<img src="./icons/PostgreSQL.png" width="48" height="48" alt="PostgreSQL" />
 <br/>
-<b>PostgreSQL</b>
+<sub><b>PostgreSQL</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/SQLite.svg" width="48" height="48" alt="SQLite" />
+<td align="center" valign="top" width="10%">
+<img src="./icons/SQLite.png" width="48" height="48" alt="SQLite" />
 <br/>
-<b>SQLite</b>
+<sub><b>SQLite</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Redis-Dark.svg" width="48" height="48" alt="Redis" />
+<td align="center" valign="top" width="10%">
+<img src="./icons/Redis.png" width="48" height="48" alt="Redis" />
 <br/>
-<b>Redis</b>
+<sub><b>Redis</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MongoDB.svg" width="48" height="48" alt="MongoDB" />
+<td align="center" valign="top" width="10%">
+<img src="./icons/MongoDB.png" width="48" height="48" alt="MongoDB" />
 <br/>
-<b>MongoDB</b>
+<sub><b>MongoDB</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MySQL-Dark.svg" width="48" height="48" alt="MySQL" />
+<td align="center" valign="top" width="10%">
+<img src="./icons/MySQL.png" width="48" height="48" alt="MySQL" />
 <br/>
-<b>MySQL</b>
+<sub><b>MySQL</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Kafka.svg" width="48" height="48" alt="Kafka" />
+<td align="center" valign="top" width="10%">
+<img src="./icons/Kafka.png" width="48" height="48" alt="Kafka" />
 <br/>
-<b>Kafka</b>
+<sub><b>Kafka</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CPP.svg" width="48" height="48" alt="C++" />
+<td align="center" valign="top" width="10%">
+<img src="./icons/CPP.png" width="48" height="48" alt="C++" />
 <br/>
-<b>C++</b>
+<sub><b>C++</b></sub>
 </td>
 </tr>
 </table>
-
-</div>
 
 ### Frontend & UI
 
-<div align="center">
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/TypeScript.svg" width="48" height="48" alt="TypeScript" />
+<td align="center" valign="top" width="12%">
+<img src="./icons/TypeScript.png" width="48" height="48" alt="TypeScript" />
 <br/>
-<b>TypeScript</b>
+<sub><b>TypeScript</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/React-Dark.svg" width="48" height="48" alt="React" />
+<td align="center" valign="top" width="12%">
+<img src="./icons/React.png" width="48" height="48" alt="React" />
 <br/>
-<b>React</b>
+<sub><b>React</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/NextJS-Dark.svg" width="48" height="48" alt="Next.js" />
+<td align="center" valign="top" width="12%">
+<img src="./icons/NextJS.png" width="48" height="48" alt="Next.js" />
 <br/>
-<b>Next.js</b>
+<sub><b>Next.js</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Bun-Dark.svg" width="48" height="48" alt="Bun" />
+<td align="center" valign="top" width="12%">
+<img src="./icons/Bun.png" width="48" height="48" alt="Bun" />
 <br/>
-<b>Bun</b>
+<sub><b>Bun</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind" />
+<td align="center" valign="top" width="12%">
+<img src="./icons/Tailwind.png" width="48" height="48" alt="Tailwind" />
 <br/>
-<b>Tailwind</b>
+<sub><b>Tailwind</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" />
+<td align="center" valign="top" width="12%">
+<img src="./icons/JavaScript.png" width="48" height="48" alt="JavaScript" />
 <br/>
-<b>JavaScript</b>
+<sub><b>JavaScript</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/HTML.svg" width="48" height="48" alt="HTML5" />
+<td align="center" valign="top" width="12%">
+<img src="./icons/HTML5.png" width="48" height="48" alt="HTML5" />
 <br/>
-<b>HTML5</b>
+<sub><b>HTML5</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/CSS.svg" width="48" height="48" alt="CSS3" />
+<td align="center" valign="top" width="12%">
+<img src="./icons/CSS3.png" width="48" height="48" alt="CSS3" />
 <br/>
-<b>CSS3</b>
+<sub><b>CSS3</b></sub>
 </td>
 </tr>
 </table>
-
-</div>
 
 ### Tools
 
-<div align="center">
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Docker.svg" width="48" height="48" alt="Docker" />
+<td align="center" valign="top" width="9%">
+<img src="./icons/Docker.png" width="48" height="48" alt="Docker" />
 <br/>
-<b>Docker</b>
+<sub><b>Docker</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Git.svg" width="48" height="48" alt="Git" />
+<td align="center" valign="top" width="9%">
+<img src="./icons/Git.png" width="48" height="48" alt="Git" />
 <br/>
-<b>Git</b>
+<sub><b>Git</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" />
+<td align="center" valign="top" width="9%">
+<img src="./icons/GitHub.png" width="48" height="48" alt="GitHub" />
 <br/>
-<b>GitHub</b>
+<sub><b>GitHub</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/GitLab-Dark.svg" width="48" height="48" alt="GitLab" />
+<td align="center" valign="top" width="9%">
+<img src="./icons/GitLab.png" width="48" height="48" alt="GitLab" />
 <br/>
-<b>GitLab</b>
+<sub><b>GitLab</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Nginx.svg" width="48" height="48" alt="Nginx" />
+<td align="center" valign="top" width="9%">
+<img src="./icons/Nginx.png" width="48" height="48" alt="Nginx" />
 <br/>
-<b>Nginx</b>
+<sub><b>Nginx</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Linux-Dark.svg" width="48" height="48" alt="Linux" />
+<td align="center" valign="top" width="9%">
+<img src="./icons/Linux.png" width="48" height="48" alt="Linux" />
 <br/>
-<b>Linux</b>
+<sub><b>Linux</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Postman.svg" width="48" height="48" alt="Postman" />
+<td align="center" valign="top" width="9%">
+<img src="./icons/Postman.png" width="48" height="48" alt="Postman" />
 <br/>
-<b>Postman</b>
+<sub><b>Postman</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="./icons/Minio.svg" width="48" height="48" alt="Minio" />
+<td align="center" valign="top" width="9%">
+<img src="./icons/Minio.png" width="48" height="48" alt="Minio" />
 <br/>
-<b>Minio</b>
+<sub><b>Minio</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Prometheus.svg" width="48" height="48" alt="Prometheus" />
+<td align="center" valign="top" width="9%">
+<img src="./icons/Prometheus.png" width="48" height="48" alt="Prometheus" />
 <br/>
-<b>Prometheus</b>
+<sub><b>Prometheus</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Grafana-Dark.svg" width="48" height="48" alt="Grafana" />
+<td align="center" valign="top" width="9%">
+<img src="./icons/Grafana.png" width="48" height="48" alt="Grafana" />
 <br/>
-<b>Grafana</b>
+<sub><b>Grafana</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="./icons/Caddy.svg" width="48" height="48" alt="Caddy" />
+<td align="center" valign="top" width="9%">
+<img src="./icons/Caddy.png" width="48" height="48" alt="Caddy" />
 <br/>
-<b>Caddy</b>
+<sub><b>Caddy</b></sub>
 </td>
 </tr>
 </table>
-
-</div>
 
 ### Data & ML
 
-<div align="center">
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/ScikitLearn-Dark.svg" width="48" height="48" alt="scikit-learn" />
+<td align="center" valign="top" width="25%">
+<img src="./icons/scikit-learn.png" width="48" height="48" alt="scikit-learn" />
 <br/>
-<b>scikit-learn</b>
+<sub><b>scikit-learn</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="./icons/Jupyter.svg" width="48" height="48" alt="Jupyter" />
+<td align="center" valign="top" width="25%">
+<img src="./icons/Jupyter.png" width="48" height="48" alt="Jupyter" />
 <br/>
-<b>Jupyter</b>
+<sub><b>Jupyter</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="./icons/Pandas.svg" width="48" height="48" alt="pandas" />
+<td align="center" valign="top" width="25%">
+<img src="./icons/Pandas.png" width="48" height="48" alt="pandas" />
 <br/>
-<b>pandas</b>
+<sub><b>pandas</b></sub>
 </td>
-<td align="center" valign="top" width="100" style="width:100px; min-width:100px; max-width:100px;">
-<img src="./icons/NumPy.svg" width="48" height="48" alt="NumPy" />
+<td align="center" valign="top" width="25%">
+<img src="./icons/NumPy.png" width="48" height="48" alt="NumPy" />
 <br/>
-<b>NumPy</b>
+<sub><b>NumPy</b></sub>
 </td>
 </tr>
 </table>
-
-</div>
 
 <br>
 
