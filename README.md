@@ -1,11 +1,11 @@
 <!-- HERO SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=CA5F81&text=DANIIL%20YAGOLNIK&height=150&fontSize=60&desc=Full-Stack%20Developer%20•%20System%20Architect&descAlignY=75&descAlign=50&animation=fadeIn&fontAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=CA5F81&text=DANIIL%20YAGOLNIK&height=150&fontSize=60&desc=Backend%20%26%20Full-Stack%20%E2%80%A2%20Go%20%2F%20Python&descAlignY=75&descAlign=50&animation=fadeIn&fontAlignY=45" width="100%" />
 </div>
 
 <!-- DYNAMIC TAGLINE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=CA5F81&center=true&vCenter=true&width=650&lines=Clean+code.+Scalable+systems.+Zero+downtime.;Building+production+ready+microservices;2+years+shipping+highload+systems;5x+Hackathon+Winner+Agency+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=CA5F81&center=true&vCenter=true&width=650&lines=Backend+and+full-stack.+Go+and+Python.;Services,+APIs,+and+product+systems.;Sfedu+Software+Engineering;Hackathon+winner" alt="Typing SVG" />
 </div>
 
 <br>
@@ -27,11 +27,11 @@
 
 ### About Me
 
-**Founder of [Chelaran](https://chelaran.ru)** — Full-cycle digital agency specializing in web development, Telegram bots, CRM systems, and business automation. From MVP to production in 2-4 weeks.
+Backend and full-stack engineer. I build services and APIs in **Go** and **Python** — from product features to systems that have to stay up under load.
 
-Backend developer with expertise in **Go** and **Python**, who has skills in frontend development, building scalable distributed systems and high-load applications. Experience integrating AI/ML models into production, creating microservices architectures, and optimizing system performance.
+I care about clear boundaries, boring reliability, and shipping something people can actually use. **Southern Federal University**, Software Engineering. Hackathon winner.
 
-**Southern Federal University** • Software Engineering • 2024
+Right now the main line is still backend and full-stack work. Applied ML is something I study alongside that, not a separate brand.
 
 </td>
 <td width="40%" valign="top">
@@ -40,12 +40,11 @@ Backend developer with expertise in **Go** and **Python**, who has skills in fro
 
 ```yaml
 location: Taganrog, Russia
-role: Full-Stack Developer
-focus: Go
-agency: Chelaran Digital
+role: Backend / Full-Stack
+stack: Go, Python
+education: Sfedu, Software Engineering
 experience: 3+ years
-hackathons: 6 victories
-philosophy: Clean Architecture
+hackathons: 6 wins
 ```
 
 </td>
@@ -77,8 +76,8 @@ philosophy: Clean Architecture
 </td>
 <td align="center" width="25%">
 
-**AI Integration**
-<br><sub>ML models in production environments</sub>
+**Integrations**
+<br><sub>Bots, third-party APIs, and product glue</sub>
 
 </td>
 <td align="center" width="25%">
@@ -304,13 +303,12 @@ philosophy: Clean Architecture
 <table>
 <tr><th>Role</th><th>Organization</th><th>Highlights</th></tr>
 <tr>
-<td><b>Founder & Lead Developer</b></td>
-<td>🚀 Chelaran Digital</td>
+<td><b>Founder</b> <sub>(past)</sub></td>
+<td>Chelaran</td>
 <td>
 
-• Full-cycle digital agency<br>
-• Web apps, bots, integrations<br>
-• 2-4 week delivery pipeline
+• Small studio: websites, Telegram bots, CRM<br>
+• Not what I focus on now
 
 </td>
 </tr>
@@ -352,7 +350,7 @@ philosophy: Clean Architecture
   <img src="https://img.shields.io/badge/Building-High_Load_Systems-CA5F81?style=for-the-badge&logo=go&logoColor=white&labelColor=000"/>
   </td>
   <td align="center">
-  <img src="https://img.shields.io/badge/Scaling-Chelaran_Agency-7145B9?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000"/>
+  <img src="https://img.shields.io/badge/Shipping-Product_APIs-7145B9?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000"/>
   </td>
   <td align="center">
   <img src="https://img.shields.io/badge/Mastering-Full_Cycle_Dev-CA5F81?style=for-the-badge&logo=react&logoColor=white&labelColor=000"/>
@@ -390,9 +388,6 @@ philosophy: Clean Architecture
   
   <a href="https://t.me/Alwaysxdroll">
     <img src="https://img.shields.io/badge/Telegram-CA5F81?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000"/>
-  </a>
-  <a href="https://chelaran.ru">
-    <img src="https://img.shields.io/badge/Chelaran-CA5F81?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000"/>
   </a>
 </div>
 
